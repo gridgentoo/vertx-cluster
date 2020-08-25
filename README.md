@@ -1,2 +1,3 @@
-# vertx-ecs-cluster
-Check the full artcle (https://medium.com/halofina-techology/high-performance-web-app-with-vert-x-cluster-94b1aa132956)
+# vertx-cluster
+Vert.x Cluster модель биржевых сценариев для микросервисов в OpenShift
+https://www.katacoda.com/kuber-ru/courses/vertx-openshift
